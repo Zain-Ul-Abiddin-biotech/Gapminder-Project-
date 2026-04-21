@@ -8,9 +8,7 @@
 
 # ── Install packages (run once, then comment out) ───────────
 # install.packages(c("dslabs", "tidyverse", "ggplot2", "ggrepel"))
-# FIX: original used install.packages("dslabs", "tidyverse", ...) which is
-#      WRONG — install.packages() only accepts a character VECTOR c(...),
-#      not comma-separated strings. Only "dslabs" would have installed silently.
+
 
 
 # ── Load libraries ───────────────────────────────────────────
